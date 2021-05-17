@@ -1,2 +1,2 @@
 # MeetLex
- A virtual assistant to shedule meeting
+ A virtual assistant to shedule meetings
